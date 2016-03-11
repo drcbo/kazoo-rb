@@ -1,5 +1,5 @@
 module Kazoo
-  class User
+  class VoipUser
     attr_reader :auth
 
     def initialize(auth)
